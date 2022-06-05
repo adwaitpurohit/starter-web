@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Advait Purohit Advait.Purohit@riaadivory.com
 
 # THANKS
 
