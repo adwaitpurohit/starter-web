@@ -19,3 +19,6 @@ v4 - Fourh Commit
 v5 - Fifth Commit
 
 v6 - Sixth Commit
+
+### Copyright
+2022 Advait Purohit
