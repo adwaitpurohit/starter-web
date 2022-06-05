@@ -7,6 +7,9 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 
-## Revision
+## Revisions
 v1 - First commit
+
 v2 - Second Commit
+
+v3 - Third Commit
