@@ -27,4 +27,4 @@ v8 - Eighth Commit
 v9 - Ninth Commit
 
 ### Copyright
-2022 Advait Purohit
+2022 Advait Purohit All rights reserved
